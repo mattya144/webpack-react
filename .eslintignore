@@ -1,0 +1,6 @@
+dist/
+nodemodules/
+*.config.js
+.*lintrc.js
+*.json
+webpack*
