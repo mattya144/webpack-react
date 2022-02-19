@@ -2,7 +2,7 @@ import { VFC } from 'react';
 
 const App: VFC = () => (
   <div>
-    <h1>Hello!React</h1>
+    <h1>Hello React!</h1>
   </div>
 );
 

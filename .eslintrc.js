@@ -108,6 +108,9 @@ module.exports = {
       node: {
         paths: ['src'],
       },
+      webpack: {
+        config: 'webpack.config.js',
+      },
     },
   },
 };
